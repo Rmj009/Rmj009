@@ -10,16 +10,16 @@
 SCPI Data pipline engineering via UART. Develop SoC testing flow and RD verification
 --> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=williampepple1&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rmj009&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <br>
 TODO: contents
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williampepple1&layout=compact&card_width=445)](https://github.com/williampepple1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rmj009&layout=compact&card_width=445)](https://github.com/Rmj009/github-readme-stats)
 
 
- <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jutivia&show_icons=true&theme=tokyonight)  -->
+ <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rmj009&show_icons=true&theme=tokyonight)  -->
 ##### 👯 I’m looking to collaborate on OpenAI invoke on chatgpt
 ##### 🔭 My working stack so far includes: Sip RF test automation, web backend, QMS data anlaysis & data visualization 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jutivia&repo=github-readme-stats)](https://github.com/jutivia/github-readme-stats) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jutivia&repo=github-readme-stats)](https://github.com/Rmj009/github-readme-stats) -->
 ☎️ 💬 Connect & ask me about more:<br>
 * <a href="https://www.linkedin.com/in/hong-yi-liu-309510143/">Linkedin</a><br>
