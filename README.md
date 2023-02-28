@@ -10,7 +10,7 @@
 SCPI Data pipline engineering via UART. Develop SoC testing flow and RD verification
 --> 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rmj009&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rmj009&theme=tokyonight-duo)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <br>
 TODO: contents
 <br>
