@@ -3,14 +3,23 @@
 <!--
 **Rmj009/Rmj009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently work as a SW/FW engineer
+- 🌱 I’m currently learning ...UaRt, TCP/IP, Web3.0, PLM
+- 🤔 I’m looking for help with ...anomaly data analysis
+- :bookmark: SW engineer specializes in RF test automation. 
+SCPI Data pipline engineering via UART. Develop SoC testing flow and RD verification
+--> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=williampepple1&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<br>
+TODO: contents
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williampepple1&layout=compact&card_width=445)](https://github.com/williampepple1/github-readme-stats)
+
+
+ <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jutivia&show_icons=true&theme=tokyonight)  -->
+##### 👯 I’m looking to collaborate on OpenAI invoke on chatgpt
+##### 🔭 My working stack so far includes: Sip RF test automation, web backend, QMS data anlaysis & data visualization 
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jutivia&repo=github-readme-stats)](https://github.com/jutivia/github-readme-stats) -->
+☎️ 💬 Connect & ask me about more:<br>
+* <a href="https://www.linkedin.com/in/hong-yi-liu-309510143/">Linkedin</a><br>
