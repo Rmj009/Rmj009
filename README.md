@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently work as a SW/FW engineer
 - 🌱 I’m currently learning ...UaRt, TCP/IP, Web3.0, PLM
-- 🤔 I’m looking for help with ...anomaly data analysis
+- 🤔 I focus on anomaly data analysis. Develop SoC testing flow and RD verification
 - :bookmark: SW engineer specializes in RF test automation. 
 SCPI Data pipline engineering via UART. Develop SoC testing flow and RD verification
 --> 
