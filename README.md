@@ -17,9 +17,9 @@ TODO: contents
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rmj009&layout=compact&card_width=445)](https://github.com/Rmj009/github-readme-stats)
 
 
- <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rmj009&show_icons=true&theme=tokyonight)  -->
+ <!--  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rmj009&show_icons=true&theme=tokyonight)  -->
 ##### 👯 I’m looking to collaborate on OpenAI invoke on chatgpt
 ##### 🔭 My working stack so far includes: Sip RF test automation, web backend, QMS data anlaysis & data visualization 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jutivia&repo=github-readme-stats)](https://github.com/Rmj009/github-readme-stats) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rmj009&repo=github-readme-stats)](https://github.com/Rmj009/github-readme-stats) -->
 ☎️ 💬 Connect & ask me about more:<br>
 * <a href="https://www.linkedin.com/in/hong-yi-liu-309510143/">Linkedin</a><br>
