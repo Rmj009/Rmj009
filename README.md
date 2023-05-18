@@ -19,7 +19,7 @@ TODO: contents
 
 
  <!--  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rmj009&show_icons=true&theme=tokyonight)  -->
-##### 👯 I’m looking for a new job now!
+## I’m looking for a new job now!
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rmj009&repo=github-readme-stats)](https://github.com/Rmj009/github-readme-stats) -->
 ☎️ 💬 Last updated: 2023-05-19
 * <a href="https://www.linkedin.com/in/hong-yi-liu-309510143/">Linkedin</a><br>
