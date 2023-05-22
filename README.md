@@ -13,7 +13,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rmj009&theme=tokyonight-duo)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <br>
-TODO: contents
+
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rmj009&layout=compact&card_width=445)](https://github.com/Rmj009/github-readme-stats)
 
@@ -22,4 +22,3 @@ TODO: contents
 ## I’m looking for a new job now!
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rmj009&repo=github-readme-stats)](https://github.com/Rmj009/github-readme-stats) -->
 ☎️ 💬 Last updated: 2023-05-19
-* <a href="https://www.linkedin.com/in/hong-yi-liu-309510143/">Linkedin</a><br>
