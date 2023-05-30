@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I’m a noob testing development engineer
 
 <!--
 - 🔭 I’m currently work as a SW/FW engineer
@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rmj009&layout=compact&card_width=445)](https://github.com/Rmj009/github-readme-stats)
 
 
- <!--  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rmj009&show_icons=true&theme=tokyonight)  -->
-## I’m looking for a new job now!
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rmj009&repo=github-readme-stats)](https://github.com/Rmj009/github-readme-stats) -->
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rmj009&show_icons=true&theme=tokyonight) 
+<!-- ## I’m a noob testing development engineer -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rmj009&repo=github-readme-stats)](https://github.com/Rmj009/github-readme-stats)
 ☎️ 💬 Last updated: 2023-05-19
