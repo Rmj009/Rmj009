@@ -9,16 +9,17 @@
 --> 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rmj009&theme=tokyonight-duo)](https://git.io/streak-stats)
-<br>
 
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rmj009&layout=compact&card_width=445)](https://github.com/Rmj009/github-readme-stats)
+</br>
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rmj009&show_icons=true&theme=tokyonight)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rmj009&show_icons=true&theme=tokyonight)
 <!-- ## I’m a noob testing development engineer -->
 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rmj009&repo=github-readme-stats)](https://github.com/Rmj009/github-readme-stats)
+<div>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rmj009&repo=github-readme-stats)](https://github.com/Rmj009/github-readme-stats)
+</div>
 💬 Last updated: 2023-06-15
