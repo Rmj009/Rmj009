@@ -10,9 +10,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rmj009&theme=tokyonight-duo)](https://git.io/streak-stats)
 
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rmj009&layout=compact&card_width=445)](https://github.com/Rmj009/github-readme-stats)
-</br>
+
 
 
 <h4 align="center">
