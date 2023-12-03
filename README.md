@@ -1,12 +1,12 @@
-### Hi there 👋 I’m a noob testing development engineer
+## Hi there 👋 I’m a junior system integration testing developer
 
-<!--
-- 🔭 I’m currently work as a SW/FW engineer
-- 🤔 I focus on anomaly data analysis. Develop SoC testing flow and RD verification
-- 🔭 My working stack so far includes: Sip RF test automation, web backend, QMS data anlaysis & data visualization 
+- I’m currently work as a NPI engineer
+- I focus on production system development and RD verification in RF field.
+- My working stack so far includes:
+  - Sip RF test automation, web backend, QMS data anlaysis & data visualization
+  - Production scheduling and EPR of cycle breakdown during DVT, EVT and MP 
 
 - :bookmark: SW engineer specializes in test automation which focus on BLE, BT, Wifi(Tx/Rx). SCPI Data pipline engineering via UaRt, SSH. Deploy SoC testing flow and RD verification.
---> 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rmj009&theme=tokyonight-duo)](https://git.io/streak-stats)
 
