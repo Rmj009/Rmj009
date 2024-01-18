@@ -4,7 +4,8 @@
 - I focus on production system development and RD verification in RF field.
 - My working stack so far includes:
   - Sip RF test automation, web backend, QMS data anlaysis & data visualization
-  - Production scheduling and EPR of cycle breakdown during DVT, EVT and MP 
+  - Production scheduling and EPR of cycle breakdown during DVT, EVT and MP
+  - Deploy RD tools
 
 - :bookmark: Specializes in test automation which focus on BLE, BT, Wifi(Tx/Rx), VoIP. Configure system integration testing with factory in VN.
 - 🔖 Deploy SoC testing flow and RD verification.
@@ -27,4 +28,4 @@
 
 </div>
 </div>
-💬 Last updated: 2024-01-10
+💬 Last updated: 2024-01-19
