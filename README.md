@@ -6,6 +6,7 @@
   - Sip RF test automation, web backend, QMS data anlaysis & data visualization
   - Production scheduling and EPR of cycle breakdown during DVT, EVT and MP
   - Deploy RD tools
+  - Capcaity planning & cost management
 
 - :bookmark: Specializes in test automation which focus on BLE, BT, Wifi(Tx/Rx), VoIP. Configure system integration testing with factory in VN.
 - 🔖 Deploy SoC testing flow and RD verification.
