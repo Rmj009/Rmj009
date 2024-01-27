@@ -4,7 +4,7 @@
 - I focus on production system development and RD verification in RF field.
 - My working stack so far includes:
   - Sip RF test automation, web backend, QMS data anlaysis & data visualization
-  - Production scheduling and EPR of cycle breakdown during DVT, EVT and MP
+  - EPR production scheduling and cycle breakdown
   - Deploy RD tools
   - Capcaity planning & cost management
 
